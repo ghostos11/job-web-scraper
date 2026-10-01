@@ -76,3 +76,5 @@ Energy engineer,Vasquez-Davidson,"Christopherville, AA",https://realpython.githu
 - Export to Excel in addition to CSV.
 - Scrape the full description from each job detail page.
 
+## project url
+https://roadmap.sh/projects/job-listings-scraper
